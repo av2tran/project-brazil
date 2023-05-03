@@ -1,0 +1,39 @@
+html, body {
+margin: 0;
+padding: 0;}
+
+.infs-purple {
+  background-color: #A63F82;
+  color: #f7fbae;
+}
+
+infs-white-text {
+  color: white
+}
+
+.infs-tapestry {
+  font-family: 'Tapestry', cursive;
+}
+
+.infs-urbanist {
+  font-family: 'Urbanist', sans-serif;
+}
+
+.infs-dark-text {
+  color: #A63F82
+}
+
+.card{
+  
+  background-color: #0EA8fd;
+  font-family: 'Urbanist';
+   align-self: center;
+}
+
+.flex-container {
+  flex-direction:column;
+  display: flex;
+   width:fit-content;
+  height:fit-content;
+   align-items: flex-start;
+}

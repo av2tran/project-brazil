@@ -1,0 +1,14 @@
+Edit images and content so they're in a grid format
+Fix footer for index
+Type Content into website 
+  > Home page
+  > Donation page
+  > Poverty page
+  > Education page
+  
+
+  **REMINDER -- Any images we use need to be either opensource or give credit to the creator!**
+
+https://edumais.org/mission/the-favelas/
+https://borgenproject.org/poverty-in-brazil/
+https://borgenproject.org/three-ways-help-poverty-in-brazil/
